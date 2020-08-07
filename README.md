@@ -8,7 +8,7 @@ apt upgrade
 
 apt install git
 
-git clone https://
+git clone https://github.com/alexpshenichny/ddos_dos-attack
 
 cd
 
