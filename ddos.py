@@ -2,7 +2,7 @@ import requests
 import threading
 
 x = input("Your website:\n");
-y = int(input("Enter a power:\n"));
+y = float(input("Enter a power:\n"));
 
 def dos():
  i = 0;
